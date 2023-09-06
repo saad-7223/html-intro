@@ -23,5 +23,12 @@
     font-size: 40px;
     font-family: 'Times New Roman', Times, serif;
     font-weight: bold;
+}
+.web{
+    text-decoration: none;
+    color: aqua;
+    background-color: blue;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
     
 }
