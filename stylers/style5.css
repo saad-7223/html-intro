@@ -1,21 +1,22 @@
 p, 
 ul {
-  border: 2px solid rebeccapurple;
+  border: 20px solid rebeccapurple;
   padding: .5em;
 }
 
-.block,
+span,
 li {
-  border: 2px solid blue;
-  padding: .5em;
+  border: 5px solid blue;
+  padding: 1em;
 }
 
 ul {
   display: flex;
   list-style: none;
+  padding: 0;
 }
 
-.block {
-  display: block;
+.inline {
+  display: inline;
 }      
     
