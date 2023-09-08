@@ -1,0 +1,34 @@
+#subsection{
+    background-color: yellow;
+    color: blueviolet;
+    font-size: 100px;
+}
+.main #subsection{
+    font-size: 50px;
+    color :red;
+}
+#parent{
+    color: red;
+}
+.child{
+    color: blue;
+}
+
+*{
+    border: 2px solid red;
+}
+.title{
+    background-color: darkred;
+    color: red;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+.web{
+    text-decoration: none;
+    color: aqua;
+    background-color: blue;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
